@@ -1,5 +1,5 @@
 # Personal introduction:
-## B'Sc in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills and further enhance my abilities.
+## Im Majed Al-Swaeer, I have B'Sc degree in mechanical engineering also a software development student at ASAC, Always seeking a new, demanding and rewarding challenges to utilize my skills and further enhance my abilities.
 
 # table of contents
 
@@ -12,4 +12,5 @@
 |Wireframes & HTML| [go here](Wireframes&HTML.md)         |
 |CSS| [go here](CSS.md)                                   |
 |JavaScript| [go here](Java.md)                           |
+
 
