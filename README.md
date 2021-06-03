@@ -11,10 +11,11 @@
 ![test img](https://www.ikea.com/jo/en/images/products/smycka-artificial-flower-peony-pink__0611398_pe685428_s5.jpg)
 
 # table of contents
-| name        | link |
-| ----------- | ----------- |
+
+| name        | link                       |
+| ----------- | -----------                |
 | read01      | [go here](read01.md)       |
-| Img         | [go here](satisfaction.jpg)        |
-| lab01         | [go here](lab01.md)        |
-| replit         | [go here](.replit)        |
-| summary_lab01         | [go here](summary.md)        |
+| Img         | [go here](satisfaction.jpg)|
+| lab01       | [go here](lab01.md)        |
+| replit      | [go here](.replit)         |
+| summary_lab0| [go here](summary.md)      |
