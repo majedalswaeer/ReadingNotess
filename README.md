@@ -3,7 +3,6 @@
 
 # table of contents
 
-<<<<<<< HEAD
 | name        | link                                      |
 | ----------- | -----------                               |
 | Personal Introduction     | [go here](read01.md)        |
@@ -14,12 +13,4 @@
 |CSS| [go here](CSS.md)                                   |
 |JavaScript| [go here](Java.md)                           |
 
-=======
-| name        | link                       |
-| ----------- | -----------                |
-| read01      | [go here](read01.md)       |
-| Img         | [go here](satisfaction.jpg)|
-| lab01       | [go here](lab01.md)        |
-| replit      | [go here](.replit)         |
-| summary_lab0| [go here](summary.md)      |
->>>>>>> da6ed3234e74cc3a8b10bf3da245d404be4333f3
+
