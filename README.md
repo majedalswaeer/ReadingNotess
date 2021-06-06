@@ -13,7 +13,7 @@
 |CSS| [go here](CSS.md)                                   |
 |JavaScript| [go here](Java.md)                           |
 |Control Flow of JavaScript| [go here](ControlFlow.md)    |
-|JavaScript functions and operators| [go here](JavascriptFuncandOperators.md) |
-|JSloops | [go here](JSloops.md)           |
+|JavaScript functions and operators| [go here](JavascriptFuncandOperators.md)                           |
+|JSloops| [go here](JSloops.md)                           |
 
 
