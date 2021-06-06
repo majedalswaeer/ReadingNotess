@@ -12,5 +12,8 @@
 |Wireframes & HTML| [go here](Wireframes&HTML.md)         |
 |CSS| [go here](CSS.md)                                   |
 |JavaScript| [go here](Java.md)                           |
+|Control Flow of JavaScript| [go here](ControlFlow.md)    |
+|Java Script functions and operators| [go here](JavascriptFuncandOperators.md) |
+
 
 
